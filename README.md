@@ -3,18 +3,18 @@
 1206563 - Aksan Maulana
 
 #================================================
-# Aplikasi ini ceritanya ditujukan untuk penjual.
+Aplikasi ini ceritanya ditujukan untuk penjual.
 #================================================
 
 Sedikit gambaran tampilan aplikasi:
 
-#=======================================#
-# Posisi anda sekarang:                 #
-# Latitude : xxxxxxx                    #
-# Longitude: xxxxxxx                    #
-#                                       #
-# Keterangan: bla bla bla               #
-#=======================================#
+#======================================
+ Posisi anda sekarang:                 
+ Latitude : xxxxxxx                    
+ Longitude: xxxxxxx                    
+                                       
+ Keterangan: bla bla bla               
+#======================================
 
 Latitude sama Longitude untuk memberitahu posisi si penjual.
 
