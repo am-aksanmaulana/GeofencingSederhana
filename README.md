@@ -8,8 +8,8 @@ Sedikit gambaran tampilan aplikasi:
 
 ---------------------------
  Posisi anda sekarang:                 
- Latitude : xxxxxxx                    
- Longitude: xxxxxxx                    
+ Latitude : 0.00000                    
+ Longitude: 0.00000                    
                                        
  Keterangan: bla bla bla               
 ----------------------------
