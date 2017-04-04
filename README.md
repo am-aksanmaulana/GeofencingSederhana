@@ -7,10 +7,12 @@ Aplikasi ini ceritanya ditujukan untuk penjual.
 Sedikit gambaran tampilan aplikasi:
 
 #===========================#
-- Posisi anda sekarang:                 
+
+Posisi anda sekarang:                 
 - Latitude : 0.00000
 - Longitude: 0.00000
-- Keterangan: bla bla bla
+
+Keterangan: bla bla bla
 
 #==========================#
 
