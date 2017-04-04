@@ -20,6 +20,7 @@ Saat dia berada di dalam area GIK, dimana:
  - Longitude berada di antara  "107.589644 sampai 107.590127"
   
 Maka, tulisan dari keterangan "Keterangan : disini banyak pelanggan!"
+
 Disertai dengan adanya alert "Banyak pelanggan!"
   
 Jika berada di luar area GIK
